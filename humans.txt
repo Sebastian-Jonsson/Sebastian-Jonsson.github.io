@@ -1,0 +1,44 @@
+/* TEAM */
+
+                            
+Student: Sebastian Jonsson.
+
+                            
+Site: sj223gb@student.lnu.se
+
+                            
+Twitter: None.
+
+                            
+Location: Kalmar, Sweden.
+
+                         
+                 
+[...]
+						
+
+							
+/* THANKS */
+
+							
+Name: https://coursepress.lnu.se/kurs/klientbaserad-webbprogrammering/examination/exam-assignment-1/
+
+						
+                 
+[...]
+                        
+
+                            
+/* SITE */
+
+                            
+Last update: 2019/11/13 
+
+                            
+Standards: HTML5, CSS3,..
+
+                            
+Components: Modernizr, jQuery, etc.
+
+                            
+Software: Visual Studio Code
