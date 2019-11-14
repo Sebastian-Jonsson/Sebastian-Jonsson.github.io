@@ -2,6 +2,8 @@
  * Site header
  */
 .site-header {
+  background-image: url("../chess-strategy-board.jpg");
+  object-fit: cover;
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
@@ -17,6 +19,7 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  color: aqua;
 
   &,
   &:visited {
