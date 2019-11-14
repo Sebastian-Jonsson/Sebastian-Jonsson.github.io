@@ -9,30 +9,49 @@ My blog page contains a mixture of Swedish and English.
 
 Below are the questions and my answers to them:
 
-What do you think of pre-compiling your CSS? -- 
+---------------------
+
+-- What do you think of pre-compiling your CSS? -- 
+
 I like the ease of maintenance with it and it also gives organized way of going through the code which I much prefer.
 
-Compare to regular CSS -- 
+-- Compare to regular CSS -- 
+
 Compared to regular CSS I enjoy it because of the above stated difference, it gives me a better overlook of the code and it is simpler to organize it.
 
-Which techniques did you use? -- 
+-- Which techniques did you use? -- 
+
 I used the common tools such as altering the color of text and backgrounds with CSS. Another thing is that I added a few things by making new id's such as borders and adding additional separating color themes there.
 
-Pros and cons? -- 
+-- Pros and cons? -- 
+
 It was alot like managing regular CSS but with the advantage of it being easier to find the different places.
 Keeps the CSS DRY, a plus.
 A downside is that I don't currently know everything about how it's built up from the bottom up and thus don't understand it entirely.
 Without any prior basic CSS knowledge I imagine it would have been a bit more confusing.
 
+---------------------
 
-What do you think of static site generators?
-What type of projects are they suitable for?
+-- What do you think of static site generators? -- 
 
+I like the speed of it, there's less issues with the server and traffic is easier to manage with one. I'd say it's good for the simpler sites, such as a blog like this.
+SSG fills it's purpose for simpler sites in my opinion but is not supposed to be used for those with real-time content.
 
-What is robots.txt and how have you configure it for your site?
+-- What type of projects are they suitable for? -- 
 
-What is humans.txt and how have you configure it for your site?
+Commonly for sites you need to get going swiftly such as a Blog or a Kickstarter site. Basic examples.
 
-How did you implements comments to blog posts
+---------------------
 
-What is Open Graph and how do you make use of it?
+-- What is robots.txt and how have you configure it for your site? -- 
+
+The file is a simple text file which is added to the source folder. Inside of this folder is where some robots go to check first for information and wether they are allowed there or not to browse it. Granted a robot can choose to ignore where it's not allowed if it's malignant.
+I configured it so that it doesn't check my _sass, _layouts, _includes folders and humans.txt - it disallows all robots, not specific ones.
+
+-- What is humans.txt and how have you configure it for your site? -- 
+
+humans.txt is as described on other sources an "initiative for knowing the people behind a website". It gives some information about the people behind the project/website. My specific configuration added the information of the Team behind it, whom to give Thanks to and aswell as some Site information. 
+
+-- How did you implements comments to blog posts -- 
+
+-- What is Open Graph and how do you make use of it? -- 
