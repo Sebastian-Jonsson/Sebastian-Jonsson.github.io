@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Answers on Exam 1"
+date:   2019-11-13 06:44:41 -0600
+categories: jekyll update
+comments: true
+---
+My blog page contains a mixture of Swedish and English.
+
+Below are the questions and my answers to them:
+
+What do you think of pre-compiling your CSS? -- 
+I like the ease of maintenance with it and it also gives organized way of going through the code which I much prefer.
+
+Compare to regular CSS -- 
+Compared to regular CSS I enjoy it because of the above stated difference, it gives me a better overlook of the code and it is simpler to organize it.
+
+Which techniques did you use? -- 
+I used the common tools such as altering the color of text and backgrounds with CSS. Another thing is that I added a few things by making new id's such as borders and adding additional separating color themes there.
+
+Pros and cons? -- 
+It was alot like managing regular CSS but with the advantage of it being easier to find the different places.
+Keeps the CSS DRY, a plus.
+A downside is that I don't currently know everything about how it's built up from the bottom up and thus don't understand it entirely.
+Without any prior basic CSS knowledge I imagine it would have been a bit more confusing.
+
+
+What do you think of static site generators?
+What type of projects are they suitable for?
+
+
+What is robots.txt and how have you configure it for your site?
+
+What is humans.txt and how have you configure it for your site?
+
+How did you implements comments to blog posts
+
+What is Open Graph and how do you make use of it?

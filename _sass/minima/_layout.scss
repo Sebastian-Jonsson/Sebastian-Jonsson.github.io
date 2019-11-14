@@ -24,9 +24,11 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: white;
+    font-weight: bold;
   }
 }
+
 
 .site-nav {
   float: right;
