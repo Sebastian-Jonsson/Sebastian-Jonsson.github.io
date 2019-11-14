@@ -53,5 +53,8 @@ I configured it so that it doesn't check my _sass, _layouts, _includes folders a
 humans.txt is as described on other sources an "initiative for knowing the people behind a website". It gives some information about the people behind the project/website. My specific configuration added the information of the Team behind it, whom to give Thanks to and aswell as some Site information. 
 
 -- How did you implements comments to blog posts -- 
+I read up on Disqus and began implementing it through the various guides I could find on the internet, namely the disqus homepage itself. I found the disques file existing already in vendor/bundle/gems/minima/includes and copied the entire includes folder over into _includes which then contained it.
+After I had added it I edited the file and "comments: true" to Front Matter so it would accept it and reveal a commenting field for users.
 
 -- What is Open Graph and how do you make use of it? -- 
+Open Graph is used when sharing things to social media and the idéa is that you can add elements to the link that you are sharing such as an image tag along with the site name and titles on the site. This is done so you can share links in a more descriptive way which others may find more useful than a simple "Press this link" button as it gives more context to the actual link aswell.
